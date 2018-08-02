@@ -38,3 +38,4 @@ firstPRMergeComment: >
 * Howdy Partner!
 * Welcome friend!
 * Hello there dev!
+* Namaste!
