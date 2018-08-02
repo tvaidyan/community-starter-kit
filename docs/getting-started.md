@@ -35,4 +35,6 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+* Howdy Partner!
+* Welcome friend!
+* Hello there dev!
